@@ -8,7 +8,7 @@ Nombre del grupo: AMST
 | Nombre y Apellido | Usuario de GitHub |
 | :--- | :--- |
 | Acosta Lucas | [@lucasacosta04](https://github.com/lucasacosta04) |
-| Masciotta Thiago | [@usuario2](https://github.com/usuario2) |
+| Masciotta Thiago | [@soythiiago](https://github.com/soythiiago) |
 | Solana Francisco | [@francisco-solana](https://github.com/francisco-solana) |
 | Theaux Jimena | [@JimenaTheaux](https://github.com/JimenaTheaux) |
 
